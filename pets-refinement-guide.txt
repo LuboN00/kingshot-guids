@@ -1,0 +1,106 @@
+🦴 KINGSHOT – PETS PRIORITY & REFINEMENT GUIDE
+
+════════════════════
+
+🐾 OVERVIEW
+• Pets provide strong passive bonuses to your troops
+• Pets can be leveled with food and refined with Taming Marks
+• Refinement increases Health & Lethality for Infantry, Cavalry, and Archers
+• Pets are a long-term power system — progress slowly and smartly
+
+════════════════════
+
+🎯 PET PRIORITY – F2P PLAYERS
+Upgrade pets in this order:
+
+1) Gray Wolf  
+2) Bison  
+3) Lion  
+4) Cheetah  
+5) Mighty Bison  
+6) Giant Rhino  
+7) Grizzly Bear  
+8) Moose  
+9) Lynx  
+
+Notes:
+• If a higher pet isn’t unlocked yet, level the best one you have
+• Level Cheetah until Lion unlocks, then switch
+• Level Lynx only to Lv20 (enough stamina for daily Pet Adventures)
+
+════════════════════
+
+💰 PET PRIORITY – SPENDERS
+Upgrade pets in this order:
+
+1) Mighty Bison  
+2) Giant Rhino  
+3) Grizzly Bear  
+4) Moose  
+5) Bison  
+6) Lion  
+7) Cheetah  
+8) Gray Wolf  
+9) Lynx  
+
+• High-rarity battle pets give better stat value per level
+• Focus combat pets first if spending
+
+════════════════════
+
+🔥 PET REFINEMENT BASICS
+• Refinement uses Taming Marks
+• Each refine rolls 6 stats:
+  - Infantry Health
+  - Infantry Lethality
+  - Archer Health
+  - Archer Lethality
+  - Cavalry Health
+  - Cavalry Lethality
+
+• Stats roll randomly up or down
+• If total power increases → press REPLACE
+• If total power decreases → press RETRY
+• AUTO refine helps save time
+
+════════════════════
+
+🌈 REFINEMENT RARITY TIERS
+Stat rarity upgrades permanently when thresholds are reached:
+
+Gray → Green → Blue → Purple → Gold
+
+• Once a stat upgrades in rarity, it never drops back
+• Higher rarity = much stronger bonus
+• Gold rolls are rare and expensive
+════════════════════
+
+🔧 BEST REFINEMENT STRATEGY
+• Use Common Taming Marks for Gray & Green stats
+• Switch to Advanced Taming Marks at Blue+
+• Purple is a strong realistic target
+• Gold is endgame-level luck or investment
+
+════════════════════
+
+📌 PET REFINEMENT PRIORITY
+• Refine pets with higher stat ceilings first
+• Battle pets benefit most from refinement
+• Refinement bonuses apply to ALL troops
+
+════════════════════
+
+🐾 DAILY & LONG-TERM TIPS
+• Run Pet Adventures daily for food & materials
+• Pet stamina determines how many adventures you can run
+• Pets are a slow system — don’t rush refinement early
+• Small gains stack up massively over time
+
+════════════════════
+
+🏆 QUICK SUMMARY
+✔ F2P: upgrade utility pets first  
+✔ Spenders: upgrade battle pets first  
+✔ Refinement boosts troop health & lethality  
+✔ Purple refinement = excellent progress  
+✔ Gold refinement = endgame goal

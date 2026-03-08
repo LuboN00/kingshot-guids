@@ -1,0 +1,69 @@
+📘 KINDSHOT – JOINER HERO MECHANICS GUIDE
+
+════════════════════
+
+🧠 WHAT IS A JOINER HERO?
+• When you join a rally, only your **first hero slot** counts.
+• That hero becomes your **Joiner Hero**.
+• Only the **first skill of that hero** contributes to the rally bonus. :contentReference[oaicite:1]{index=1}
+
+Example:
+If your march is [Chenko] [Howard] [Quinn], then:
+➡️ Chenko = Joiner Hero
+➡️ Only Chenko’s **first skill** adds to rally bonuses. 
+
+════════════════════
+
+💥 HOW MANY JOINER SKILLS COUNT?
+• Up to **4 joiner skills** can be added to a rally.
+• Only the **first 4 members** who join with a maxed first skill get counted.
+• If an early joiner does NOT have their first skill maxed, the next joiner can fill that slot. 
+
+════════════════════
+
+📊 DAMAGE FORMULA (SIMPLIFIED)
+Kills = √Troops × (Attack × Lethality) / (Enemy Defense × Enemy Health) × SkillMod
+
+Where:
+• **SkillMod** comes from all active skill buffs in the rally.
+• Joiner skills boost **DamageUp**, **DefenseUp**, or **OppDamageDown** in SkillMod.
+════════════════════
+
+🧩 STACKING JOINER SKILLS – SAME VS DIFFERENT
+• If you use 4 of the SAME joiner effect (e.g., all Chenko/Amane damage buffs with same identifier),
+  those buffs **just add up**.  
+• If you use different identifiers (e.g., DamageUp 101 + DamageUp 102),
+  those buffs **multiply**, giving a bigger SkillMod boost. :contentReference
+
+Example:
+• 4 identical (e.g., 4 Chenko) → 100% boost  
+• 2 Chenko + 2 Amane → ~125% boost  
+(Mixing gives more damage than stacking the same.) 
+
+════════════════════
+
+🧠 EFFECT TYPES (Identifiers)
+• **DamageUp:** Chenko, Amadeus, Yeonwoo (all ‘101’)
+• **DamageUp:** Amane, Margot (with different identifier ‘102’)
+• **DefenseUp:** Howard, Quinn, Gordon, Saul, Hilde (various ‘111’, ‘112’, ‘113’)
+• **OppDamageDown:** Fahd, Eric (different identifiers ‘201’, ‘202’) 
+
+════════════════════
+
+📍 KEY MECHANIC TAKEAWAYS
+✔ Only your first hero’s FIRST skill matters when joining  
+✔ Up to 4 joiner skills can be counted  
+✔ Heroes with different effect identifiers stack multiplicatively  
+✔ Different types of buffs (DamageUp, OppDamageDown, DefenseUp) also stack multiplicatively  
+✔ Hero gear **does NOT matter for joiner skill effects** — only the skill itself matters
+
+════════════════════
+
+🎯 BEST PRACTICE FOR JOINERS
+• Use a mix of joiner heroes with *different identifiers* to gain multiplicative stack  
+• Max out the FIRST skill of your joiner heroes  
+• For attack rallies: prioritize DamageUp heroes  
+• For garrison: mix DefenseUp with OppDamageDown heroes
+
+📌 Hero Joiner Slot Rule  
+https://cacle.kingshotguide.org/guideImage/kingshot-hero-tier-list/kingshot-hero-tier-list.webp

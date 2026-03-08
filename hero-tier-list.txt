@@ -1,0 +1,64 @@
+🏆 KINGSHOT HERO TIER LIST (COMPACT + EXPLANATION)
+
+This tier list is split by ROLE.
+A hero can be very strong in one role and bad in another.
+DO NOT use one hero for everything.
+
+────────────────────────
+🔥 RALLY (ATTACK)
+S: Amadeus | Petra | Marlin | Rosa  
+A: Helga  
+B: Jabel | Saul | Zoe | Hilde | Eric | Jaeger | Alcar | Margot  
+C: Quinn | Howard | Chenko | Gordon  
+D: Yeonwoo | Amane | Fahd  
+
+ℹ️ INFO:
+• Rally heroes LEAD attacks
+• Attack-type widgets matter the most
+• Widgets scale multiplicatively → very strong in rallies
+• Good rally heroes can be bad defenders
+
+────────────────────────
+🛡️ GARRISON (DEFENSE)
+S: Jabel | Zoe | Hilde | Eric | Jaeger | Alcar | Margot  
+A: Saul  
+B: Amadeus | Petra | Marlin | Rosa | Helga  
+C: Quinn | Howard | Chenko | Gordon  
+D: Yeonwoo | Amane | Fahd  
+
+ℹ️ INFO:
+• Garrison heroes DEFEND your base
+• Defense-type widgets are key
+• Attack heroes drop a lot in defense value
+• Pick heroes built for tanking & defense stats
+
+────────────────────────
+🤝 JOINER
+S: Saul | Hilde  
+A: Gordon | Chenko | Amane | Yeonwoo | Amadeus | Margot  
+B: Marlin | Petra | Jaeger | Jabel | Helga | Rosa | Alcar | Quinn | Howard | Eric | Fahd  
+
+ℹ️ INFO:
+• Joiners DO NOT use widgets
+• Only the FIRST hero expedition skill applies
+• Stacking the same strong joiner = best results
+• S-tier joiners are always the priority
+
+────────────────────────
+🐻 BEAR HUNT (JOINERS)
+S: Chenko | Amadeus | Yeonwoo | Amane | Margot  
+A: Hilde  
+B: Marlin | Petra | Rosa  
+
+ℹ️ INFO:
+• Bear does NOT deal damage
+• Defense buffs are useless here
+• Pure damage buffs = best choice
+• Some normal joiners are bad for Bear Hunt
+
+────────────────────────
+✅ QUICK RULES
+• Leading attack? → Rally hero
+• Defending base? → Garrison hero
+• Joining rally? → Best joiner
+• Bear Hunt? → Damage only

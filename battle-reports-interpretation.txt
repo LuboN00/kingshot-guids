@@ -1,0 +1,45 @@
+🧠 Purpose
+
+Battle Reports help you understand what happened in a match, how your team performed, and where improvements are needed.
+
+⚔️ 1. Overview Section
+
+Result: Win / Loss
+Duration: Total time of the battle
+Opponent Info: Name, level, and alliance
+Power Comparison: Quick glance at strength differences before and after battle
+
+📌 Use this to assess if you were overpowered or if tactics made the difference.
+
+💥 2. Army Performance
+
+Troops Sent vs. Survived: Shows efficiency and losses
+Casualties / Wounded / Returned:
+High wounded = strong defense or poor formation
+High losses = bad matchup or missing buffs
+Healable Units: Units you can recover post-battle
+
+📌 Compare your losses with the enemy’s — aim for better survival ratios.
+
+🧩 3. Formation Breakdown
+
+Frontline / Midline / Backline Performance:
+Check which troop type absorbed most damage
+Identify weak or overexposed lines
+Damage Distribution:
+Top 3 units or heroes by total damage dealt
+
+📌 Adjust formation next time to protect your key damage dealers.
+
+⚙️ 4. Buffs & Debuffs
+Active Skills: Which abilities triggered and how often
+Buffs: Attack/Defense boosts that helped you
+Debuffs: Effects reducing your stats or efficiency
+
+📌 If you see strong debuffs, consider counter-skills or gear changes.
+
+📊 5. Summary Insights
+
+Victory Reason: Tactical formation, hero synergy, or stat advantage
+Improvement Area: Missing buffs, weak units, or poor positioning
+Next Step: Rebuild, adjust, and test again
