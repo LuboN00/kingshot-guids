@@ -44,3 +44,49 @@ Gen 4:
 • Amadeus, Petra, Rosa
 
 Widgets matter most in rallies — choose heroes whose widgets boost rally stats.
+
+════════════════════
+
+🛡️ GARRISON / DEFENSE
+🧠 Defensive widgets give big bonus.
+• Best lineup focuses on defenders with strong defensive widgets and skills.
+
+Recommended Garrison lineups:
+Gen 2:
+• Zoe, Hilde, Saul
+
+Gen 3:
+• Eric, Hilde, Jaeger
+
+Gen 4:
+• Alcar, Margot, Jaeger
+
+Defense is about **survivability and defense buffs** — not pure damage.
+
+════════════════════
+
+📊 KEY LINEUP PRINCIPLES
+✔ Solo = Ignore Widgets, use best raw stats & skills  
+✔ Rally = Use heroes with **rally widgets + strong expedition skills**  
+✔ Garrison = Use heroes with **defense widgets + survival skills**  
+✔ Mythic heroes ALWAYS outperform epics when available
+
+════════════════════
+
+🎯 LINEUP EXAMPLES TO REMEMBER
+
+Solo Attack (PvP / Open World):
+• **Amadeus + Petra + Jaeger**
+
+Rally Attack:
+• **Amadeus + Petra + Marlin**
+
+Garrison:
+• **Eric + Hilde + Jaeger**
+
+════════════════════
+
+🧠 TIPS FOR BUILDING YOUR LINEUP
+• Save gems & mythic shards for heroes with widgets — they scale better.  
+• Don’t upgrade less useful heroes too soon — prioritize meta heroes.  
+• Solo fighters should focus on pure stats; rally/garrison should focus on widgets + synergy.
