@@ -1,0 +1,106 @@
+🛡️ KINGSHOT – IN-DEPTH HERO GEAR GUIDE (by GDKP)
+
+════════════════════
+
+📌 OVERVIEW
+• Hero Gear is one of the biggest power boosts in the game
+• Gear increases Attack, Defense, Health, and Lethality
+• Proper gear focus matters more than spreading upgrades
+
+════════════════════
+
+📍 GEAR UNLOCK & SOURCES
+• Hero Gear unlocks at Town Center Lv15
+• Main gear sources:
+  - Arena Shop (Custom Gear Chests)
+  - Conquest rewards
+  - Events and limited packs
+
+Gear rarity order:
+Grey → Green → Blue → Purple → Gold → Red
+
+════════════════════
+
+📊 GEAR STATS – HOW THEY WORK
+Gear gives two main stat types:
+• Expedition Stats – used in world/map fights
+• Conquest Stats – secondary, less important early
+
+Gear slot bonuses:
+• Helmet & Boots → Lethality
+• Chest & Gloves → Health
+
+════════════════════
+
+🎯 BEST UPGRADE PRIORITY
+Upgrade in this order for maximum value:
+
+1️⃣ Infantry Health (Chest & Gloves)
+2️⃣ Archer Lethality (Helmet & Boots)
+3️⃣ Cavalry Lethality (Helmet & Boots)
+4️⃣ Then:
+   • Infantry Lethality
+   • Archer Health
+   • Cavalry Health
+
+This order gives the highest combat impact early.
+
+════════════════════
+
+📈 GEAR LEVELS & PROGRESSION
+• Grey gear → Max Lv20
+• Green → Lv40
+• Blue → Lv60
+• Purple → Lv80
+• Gold → Lv100 (unlocks Mastery)
+• Red → Lv200 (after Ascension)
+
+════════════════════
+
+🔧 MASTERY FORGING
+• Unlocks once Gold gear reaches Lv20
+• Uses Forgehammers
+• Increases stat multipliers
+• Max Mastery = +20 (almost doubles gear bonus)
+
+Use Forgehammers only on priority gear.
+
+════════════════════
+
+🔥 ASCENDING TO RED GEAR
+Requirements:
+• Gold gear Lv100
+• Mastery Lv10
+• Mithril materials
+
+Red gear unlocks Imbuement stats
+(New bonuses every +20 levels)
+
+════════════════════
+
+📍 ENDGAME PATH (F2P FRIENDLY)
+• Most F2P players stop at:
+  Gold Lv100 + Mastery ~10
+• Red gear is extremely expensive
+• Focus on 3 main heroes only
+
+════════════════════
+
+🏆 BEST PRACTICES
+✅ Gear only your main march heroes
+   (Infantry / Archer / Cavalry)
+✅ Merge low gear into high gear for EXP
+✅ Save Mythic gear & Forgehammers
+✅ Don’t waste gear on unused heroes
+✅ Arena Shop is your best consistent source
+
+════════════════════
+
+⚠️ IMPORTANT REMINDER
+• Hero gear ONLY matters when YOU lead a march
+• Gear does NOT affect joiner damage
+• Joiners only contribute hero skills, not gear stats
+
+
+https://kingshotguides.com/guide/in-depth-hero-gear-guide-by-gdkp/
+Gear optimizer tool: https://kingshotoptimizer.com/hero-gear
